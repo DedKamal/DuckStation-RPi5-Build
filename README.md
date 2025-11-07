@@ -41,3 +41,21 @@ nano src/util/CMakeLists.txt
 rm -rf build && mkdir build && cd build
 cmake -DCMAKE_BUILD_TYPE=Release ..
 make -j4
+---
+
+## 🎸 Stay tuned!  
+
+Дед Камал уже точит паяльник и заряжает Raspberry на полную мощность ⚡  
+Скоро тут появится:
+
+- 🧠 автоматический скрипт `build_duckstation_pi5.sh`
+- 🔧 патчи для GCC 14 и libpng16
+- 💾 готовые бинарники для Raspberry Pi 5
+
+---
+
+🔥 **Ждёте? Правильно делаете.**  
+Здесь скоро будет РОК — в прямом и переносном смысле 🤘  
+
+💬 _Stay tuned for the Rock Edition — from Ded Kamal with 🔥_  
+🎸 **#Фишки и плюшки от Деда Камала™**
