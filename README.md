@@ -60,3 +60,16 @@ nano src/util/CMakeLists.txt
 rm -rf build && mkdir build && cd build
 cmake -DCMAKE_BUILD_TYPE=Release ..
 make -j4
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DedKamal&repo=DuckStation-RPi5-Build&color=blueviolet&style=flat-square" alt="views badge"/>
+  <img src="https://img.shields.io/github/stars/DedKamal/DuckStation-RPi5-Build?color=gold&style=flat-square" alt="stars badge"/>
+  <img src="https://img.shields.io/github/watchers/DedKamal/DuckStation-RPi5-Build?color=orange&style=flat-square" alt="watchers badge"/>
+</p>
+
+<p align="center">
+  👁 Views ⭐ Stars 🔔 Watchers  
+  <br>
+  🧠 Powered by <b>Ded Kamal™</b> — Rock Edition 🤘
+</p>
