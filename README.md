@@ -38,3 +38,13 @@ nano src/util/CMakeLists.txt
 rm -rf build && mkdir build && cd build
 cmake -DCMAKE_BUILD_TYPE=Release ..
 make -j4
+---
+
+## 🎤 Что дальше?
+
+Дед Камал уже точит паяльник и готовит новые плюшки 🔧⚡  
+Скоро здесь появятся автоматический скрипт сборки `build_duckstation_pi5.sh`  
+и патчи для GCC 14 и libpng16.  
+
+🦆 DuckStation на Raspberry Pi 5 станет ещё мощнее —  
+следите за обновлениями и готовьтесь к настоящему **року от Деда Камала 🤘**
